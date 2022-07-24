@@ -1,0 +1,44 @@
+D:\Assignment\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Assignment\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Assignment\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.CustomDia.resources
+D:\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+F:\C# Example\Notepad\Notepad\bin\Debug\Notepad.exe.config
+F:\C# Example\Notepad\Notepad\bin\Debug\Notepad.exe
+F:\C# Example\Notepad\Notepad\bin\Debug\Notepad.pdb
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.CustomDia.resources
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.exe
+F:\C# Example\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\C# Example\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\C# Example\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\C# Example\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.CustomDia.resources
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\C# Example\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.CustomDia.resources
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.pdb
