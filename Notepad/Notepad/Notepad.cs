@@ -306,7 +306,6 @@ namespace Notepad
                         rthBox.SelectionColor = Color.Blue;
                     }
 
-               // toolStripStatusLabel1.Text = "Ln " + line + ", Col " + (col + rthBox.SelectedText.Length);
             }
             else
             {

@@ -42,3 +42,14 @@ C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.Gene
 C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
 C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.exe
 C:\Users\Leon\Documents\Assignment\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.CustomDia.resources
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Leon\Documents\GitProjects\Notepad\Notepad\Notepad\obj\Debug\Notepad.pdb
