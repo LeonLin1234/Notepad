@@ -315,6 +315,7 @@ namespace Notepad
                 copyToolStripMenuItem1.Enabled = false;
                 deleteToolStripMenuItem.Enabled = false;
                 deleteToolStripMenuItem1.Enabled = false;
+
             }
         }
     }
